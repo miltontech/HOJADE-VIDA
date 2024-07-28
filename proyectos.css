@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  
+  
+  }
+  
+  #contenedor{
+      width:1200px;
+      margin-top: 10px;
+      margin-bottom:10px;
+      margin:auto;
+      background: rgb (255,255,255) ;
+  }
+  
+  header{
+   height: 80px;
+   background: rgb(214,234,248);
+   margin-top:10px ;
+   border-radius: 20px;
+  }
+  header h1{
+  
+      font-size:40px;
+      font-family:candara;
+      text-align:center;
+      line-height:70px ;
+      color:rgb(44,62,80);
+  }
+  nav{
+   height: 60px;
+   margin-top: 10px;
+   background: rgb(174,214,241);
+   border-radius:20px ;
+  }
+  
+  #contenido{
+    height: 550px ;
+    background: rgb(209,242,235);
+    margin-top: 10px;
+    border-radius:20px;
+  }
+  #contenido h1{
+  
+    font-size:40px;
+    margin-top:20px;
+    margin-left: 20px;
+    font-family:Candara;
+  }
+  #contenido h2{
+   font-size:30px;
+   margin-top:20px ;
+   margin-left: 20px;
+   font-family:Candara;
+    
+  }
+  #contenido .juego{
+
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: 20px;
+  font-family: Candara;
+  text-align:left;
+  
+  }
+  #contenido .base{
+
+    #contenido .base{
+
+        font-size: 40px;
+        margin-top: 20px;
+        margin-left: 60px;
+        font-family: Candara;
+        text-align:justify;
+      
+      }
+
+  }
+
+
+  #contenido .tecnico{
+
+    font-size: 20px;
+    margin-top: 10px;
+    margin-left: 30px;
+    font-family: Candara;
+    text-align:justify;
+  
+  }
+
+
+nav .vinculo3{
+
+
+    font-size:30px;
+    margin-left:200px;
+    text-align:center ;
+    padding-top: 10px;
+    font-family:"Century Gothic";
+    line-height: 50px;
+    color:rgb(1,92,141);
+    }
+
+    
